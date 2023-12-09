@@ -20,7 +20,7 @@ wait(2)
 msg:remove()
 wait(2)
 
-local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/YSlon/----GL/main/%E7%8C%8E%E6%88%B7UI.lua"))()
+local OrionLib = loadstring(game:HttpGet("https://pastebin.com/raw/EKbJaTCT"))()
 local Window = OrionLib:MakeWindow({Name = "刺 客 - D O O R S", HidePremium = false, SaveConfig = true,IntroText = "启动中", ConfigFolder = "启动中"})
 
 local Main = Window:MakeTab({

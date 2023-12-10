@@ -36,7 +36,7 @@ end
 --密钥和用户名的编辑区
  
 function yhm()
-    if Input == "CKDOORSV1" then
+    if Input == "cikems886" then
       load()
      else
       wrong()
